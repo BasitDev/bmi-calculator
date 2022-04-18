@@ -1,0 +1,14 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "my Bmi Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdul basit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
